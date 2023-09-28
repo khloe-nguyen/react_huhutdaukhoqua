@@ -13,21 +13,6 @@ export default class Product extends Component {
             <p className="card-text text-white">Text</p>
           </div>
         </div>
-        <div className="card bg-white">
-          <img className="card-img-top" src="holder.js/100x180/" alt="" />
-          <div className="card-body">
-            <h4 className="card-title text-white">Title</h4>
-            <p className="card-text text-white">Text</p>
-          </div>
-        </div>
-
-        <div className="card bg-white">
-          <img className="card-img-top" src="holder.js/100x180/" alt="" />
-          <div className="card-body">
-            <h4 className="card-title text-white">Title</h4>
-            <p className="card-text text-white">Text</p>
-          </div>
-        </div>
       </div>
     );
   }
